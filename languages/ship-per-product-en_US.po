@@ -1,0 +1,342 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ship Per Product 2.0.5\n"
+"POT-Creation-Date: 2017-11-21 12:13+0530\n"
+"PO-Revision-Date: 2017-11-21 12:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath:\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ship-per-product.php:89 includes/ship-per-product-options.php:199
+msgid "Settings"
+msgstr ""
+
+#: ship-per-product.php:112
+msgid ""
+"WooCommerce is not activated. Please install WooCommerce to use the Product "
+"Based Shipping !!!"
+msgstr ""
+
+#: includes/class-ship-per-product.php:70
+msgid ""
+"Soon you will receive the more details of this extension on the given mail."
+msgstr ""
+
+#: includes/class-ship-per-product.php:74
+#: includes/class-ship-per-product.php:79
+msgid "Sorry,an error occured.Please try again."
+msgstr ""
+
+#: includes/class-ship-per-product.php:155
+#: includes/class-ship-per-product.php:711
+#: includes/ship-per-product-options.php:341
+msgid "Country Code"
+msgstr ""
+
+#: includes/class-ship-per-product.php:157
+#: includes/class-ship-per-product.php:712
+#: includes/ship-per-product-options.php:344
+msgid "State Code"
+msgstr ""
+
+#: includes/class-ship-per-product.php:159
+#: includes/ship-per-product-options.php:347
+#: includes/ship-per-product-options.php:389
+msgid "City"
+msgstr ""
+
+#: includes/class-ship-per-product.php:161
+#: includes/class-ship-per-product.php:714
+#: includes/ship-per-product-options.php:350
+msgid "Zip Code"
+msgstr ""
+
+#: includes/class-ship-per-product.php:163
+#: includes/ship-per-product-options.php:392
+msgid "Line cost"
+msgstr ""
+
+#: includes/class-ship-per-product.php:165
+msgid "Item Code"
+msgstr ""
+
+#: includes/class-ship-per-product.php:534
+#: includes/ship-per-product-options.php:39
+#: includes/ship-per-product-options.php:76
+msgid "Ship Per Product"
+msgstr ""
+
+#: includes/class-ship-per-product.php:535
+msgid "Check to enable."
+msgstr ""
+
+#: includes/class-ship-per-product.php:707
+msgid "Delete the selected rows"
+msgstr ""
+
+#: includes/class-ship-per-product.php:710
+msgid "Please choose a CSV file."
+msgstr ""
+
+#: includes/class-ship-per-product.php:713
+msgid "City Code"
+msgstr ""
+
+#: includes/class-ship-per-product.php:715
+#: includes/ship-per-product-options.php:360
+msgid "Line Cost"
+msgstr ""
+
+#: includes/class-ship-per-product.php:716
+#: includes/ship-per-product-options.php:363
+msgid "Item Cost"
+msgstr ""
+
+#: includes/class-ship-per-product.php:717
+msgid "Please fill all required fields"
+msgstr ""
+
+#: includes/class-ship-per-product.php:718
+msgid "No states found"
+msgstr ""
+
+#: includes/ship-per-product-options.php:40
+msgid ""
+"This Shipping Method charges shipping cost based on product shipping location"
+msgstr ""
+
+#: includes/ship-per-product-options.php:67
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/ship-per-product-options.php:69
+msgid "Enable Ship Per Product"
+msgstr ""
+
+#: includes/ship-per-product-options.php:73
+msgid "Method Title"
+msgstr ""
+
+#: includes/ship-per-product-options.php:75
+msgid "This controls the title which user sees during checkout."
+msgstr ""
+
+#: includes/ship-per-product-options.php:81
+msgid "Include Tax"
+msgstr ""
+
+#: includes/ship-per-product-options.php:84
+msgid "check to enable tax to this method"
+msgstr ""
+
+#: includes/ship-per-product-options.php:87
+msgid "Handling charge per product"
+msgstr ""
+
+#: includes/ship-per-product-options.php:88
+msgid "Select the mode in which you want to enter amount"
+msgstr ""
+
+#: includes/ship-per-product-options.php:92
+msgid "Select in which mode you want ot enter amount."
+msgstr ""
+
+#: includes/ship-per-product-options.php:93
+msgid "Percent"
+msgstr ""
+
+#: includes/ship-per-product-options.php:94
+msgid "Fixed"
+msgstr ""
+
+#: includes/ship-per-product-options.php:98
+msgid "Enter value of handling charge per product"
+msgstr ""
+
+#: includes/ship-per-product-options.php:103
+msgid "This fee is added to each and every product in the cart."
+msgstr ""
+
+#: includes/ship-per-product-options.php:108
+msgid "Handling charge per order"
+msgstr ""
+
+#: includes/ship-per-product-options.php:109
+msgid "Enable it to enter value in numeric"
+msgstr ""
+
+#: includes/ship-per-product-options.php:113
+msgid "Select the mode in which you want to enter amount."
+msgstr ""
+
+#: includes/ship-per-product-options.php:118
+msgid "Enter value of handling charge per order"
+msgstr ""
+
+#: includes/ship-per-product-options.php:123
+msgid "This fee is added per order."
+msgstr ""
+
+#: includes/ship-per-product-options.php:129
+msgid "Default shipping charge"
+msgstr ""
+
+#: includes/ship-per-product-options.php:132
+msgid ""
+"Default Shipping Price , applicable if product shipping price is not defined."
+msgstr ""
+
+#: includes/ship-per-product-options.php:135
+msgid "Specific Countries"
+msgstr ""
+
+#: includes/ship-per-product-options.php:141
+msgid "Select some countries"
+msgstr ""
+
+#: includes/ship-per-product-options.php:145
+msgid "Skip free shipping product for calculation"
+msgstr ""
+
+#: includes/ship-per-product-options.php:147
+msgid ""
+"If this field is set, then shipping cost will not be calculated for free "
+"shipping products."
+msgstr ""
+
+#: includes/ship-per-product-options.php:183
+msgid "Seleceted File is not a valid CSV file."
+msgstr ""
+
+#: includes/ship-per-product-options.php:191
+msgid "CSV file has some rows which has product id which do not exist."
+msgstr ""
+
+#: includes/ship-per-product-options.php:200
+msgid "Product Based"
+msgstr ""
+
+#: includes/ship-per-product-options.php:252
+msgid "Import Rates"
+msgstr ""
+
+#: includes/ship-per-product-options.php:255
+msgid ""
+"Upload product wise shipping rates to import rates into your shop. You need "
+"to choose a CSV file and click Upload."
+msgstr ""
+
+#: includes/ship-per-product-options.php:256
+msgid ""
+"CSV for shipping rate must be with 8 columns ( Country Code, Region/State "
+"Code, City, Zip/Postal Code, Sku, ID, Line cost, Item cost )"
+msgstr ""
+
+#: includes/ship-per-product-options.php:260
+msgid "Choose a CSV file:"
+msgstr ""
+
+#: includes/ship-per-product-options.php:266
+msgid "Maximum size:128 MB"
+msgstr ""
+
+#: includes/ship-per-product-options.php:269
+msgid "Export Demo CSV"
+msgstr ""
+
+#: includes/ship-per-product-options.php:275
+msgid "Override Previous Shipping Detail"
+msgstr ""
+
+#: includes/ship-per-product-options.php:279
+msgid "Check to replace with previous Shipping Details"
+msgstr ""
+
+#: includes/ship-per-product-options.php:282
+msgid ""
+"( By Default Shipping Detail will be added with previous Shipping Detail )"
+msgstr ""
+
+#: includes/ship-per-product-options.php:295
+msgid "Add Rates"
+msgstr ""
+
+#: includes/ship-per-product-options.php:302
+msgid "You can get country and state code from "
+msgstr ""
+
+#: includes/ship-per-product-options.php:302
+msgid "Here"
+msgstr ""
+
+#: includes/ship-per-product-options.php:307
+msgid "Countries"
+msgstr ""
+
+#: includes/ship-per-product-options.php:320
+msgid "States"
+msgstr ""
+
+#: includes/ship-per-product-options.php:334
+msgid ""
+"Data would not be saved if you left any field blank except state code, city, "
+"zip code"
+msgstr ""
+
+#: includes/ship-per-product-options.php:375
+msgid "List Rates"
+msgstr ""
+
+#: includes/ship-per-product-options.php:382
+msgid "Export Rates"
+msgstr ""
+
+#: includes/ship-per-product-options.php:387
+msgid "Country"
+msgstr ""
+
+#: includes/ship-per-product-options.php:388
+msgid "Region/State"
+msgstr ""
+
+#: includes/ship-per-product-options.php:390
+msgid "Zip/Postal Code"
+msgstr ""
+
+#: includes/ship-per-product-options.php:391
+msgid "Product"
+msgstr ""
+
+#: includes/ship-per-product-options.php:393
+msgid "Item cost"
+msgstr ""
+
+#: includes/ship-per-product-options.php:401
+msgid "Delete Rates"
+msgstr ""
+
+#: includes/ship-per-product-options.php:483
+msgid "enter your e-mail address"
+msgstr ""
+
+#: includes/ship-per-product-options.php:484
+msgid "Know More"
+msgstr ""
+
+#: includes/ship-per-product-options.php:671
+msgid "Skipped"
+msgstr ""
+
+#: includes/ship-per-product-options.php:671
+msgid ""
+"Products shipping rate (most likely due to non existing sku, or empty sku)"
+msgstr ""
